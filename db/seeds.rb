@@ -36,8 +36,8 @@ puts "5 skills created"
     woofer waggy wags thicc, extremely cuuuuuute borking doggo big ol you are
     doing me the shock long bois shoober. Length boy borking doggo doggorino
     maximum borkdrive shoob ruff, ur givin me a spook very good spot long water shoob.",
-    main_image: "http://via.placeholder.com/350x200",
-    thumb_image: "http://via.placeholder.com/600x400"
+    main_image: "http://via.placeholder.com/600x400",
+    thumb_image: "http://via.placeholder.com/350x200"
   )
 end
 
